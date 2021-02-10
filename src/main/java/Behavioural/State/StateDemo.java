@@ -13,5 +13,13 @@ public class StateDemo {
         fan.pullChain();
 
         System.out.println(fan);
+
+        fan.pullChain();
+
+        System.out.println(fan);
+
+        fan.pullChain();
+
+        System.out.println(fan);
     }
 }
