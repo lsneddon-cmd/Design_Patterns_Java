@@ -1,0 +1,6 @@
+Also called a wrapper
+Add behaviour without affecting others
+More than just inheritance
+Single Responsibility Principle
+Compose behaviour dynamically
+Examples in Java API are InputStream, checkList from Collections, UI components
